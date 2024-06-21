@@ -1,4 +1,5 @@
-public class Type { // Declaração da classe chamada 'Type'
+package typeandOpr_project;
+public class Estoque { // Declaração da classe chamada 'Type'
     
     public static void main(String[] args) { // Declaração do método principal, ponto de entrada do programa
         

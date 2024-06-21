@@ -1,0 +1,48 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "args_project.AboutMe",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd",
+           "args": [
+            "Karine",
+            "25",
+            "1.69",
+            "Bentinho"
+           ]
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "method_project.User",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
+            "name": "Type",
+            "request": "launch",
+            "mainClass": "type_project.Type",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        }
+    ]
+}
