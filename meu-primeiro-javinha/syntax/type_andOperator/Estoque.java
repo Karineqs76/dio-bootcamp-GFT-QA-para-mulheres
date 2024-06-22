@@ -1,4 +1,4 @@
-package typeandOpr_project;
+package type_andOperator;
 public class Estoque { // Declaração da classe chamada 'Type'
     
     public static void main(String[] args) { // Declaração do método principal, ponto de entrada do programa

@@ -8,6 +8,13 @@
             "type": "java",
             "name": "AboutMe",
             "request": "launch",
+            "mainClass": "arguments.AboutMe",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
             "mainClass": "args_project.AboutMe",
             "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
         },
@@ -23,12 +30,12 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd",
-           "args": [
-            "Karine",
-            "25",
-            "1.69",
-            "Bentinho"
-           ]
+            "args": [
+                "Karine",
+                "25",
+                "1.69",
+                "Bentinho"
+            ]
         },
         {
             "type": "java",
