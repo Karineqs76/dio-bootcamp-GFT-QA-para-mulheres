@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Nota",
+            "request": "launch",
+            "mainClass": "loops_arrays.Nota",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
+            "name": "Nome",
+            "request": "launch",
+            "mainClass": "loops_arrays.Nome",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
+            "name": "LoopNome",
+            "request": "launch",
+            "mainClass": "LoopNome",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "arguments.AboutMe",
