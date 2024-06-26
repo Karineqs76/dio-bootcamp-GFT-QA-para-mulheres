@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "maiorMedia",
+            "request": "launch",
+            "mainClass": "loops_arrays.maiorMedia",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
             "name": "Nota",
             "request": "launch",
             "mainClass": "loops_arrays.Nota",
