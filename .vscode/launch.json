@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "parImpar",
+            "request": "launch",
+            "mainClass": "loops_arrays.parImpar",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
             "name": "maiorMedia",
             "request": "launch",
             "mainClass": "loops_arrays.maiorMedia",
