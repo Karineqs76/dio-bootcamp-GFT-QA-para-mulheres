@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Inverso",
+            "request": "launch",
+            "mainClass": "loops_arrays.Inverso",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
             "name": "Fatorial",
             "request": "launch",
             "mainClass": "loops_arrays.Fatorial",
