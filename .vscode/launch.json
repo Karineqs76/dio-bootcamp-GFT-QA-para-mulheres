@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "aleatorios",
+            "request": "launch",
+            "mainClass": "loops_arrays.aleatorios",
+            "projectName": "dio-bootcamp-GFT-QA-para-mulheres_bca35ecd"
+        },
+        {
+            "type": "java",
             "name": "Consoantes",
             "request": "launch",
             "mainClass": "loops_arrays.Consoantes",
